@@ -34,7 +34,8 @@ This project does not have any dependencies, so there's no need to run any insta
 ## Example Output
 
 This is your fortune:
-The cards reveal a major breakthrough in your near future.
+![Screenshot 2024-05-30 at 8 44 44 AM](https://github.com/VadymMakohon/Fortune-Message-Generator/assets/138728243/5e34583a-b1ce-4934-878e-112628c1d736)
+
 
 # Contributors
 - [Vadym Makohon](https://github.com/VadymMakohon)
