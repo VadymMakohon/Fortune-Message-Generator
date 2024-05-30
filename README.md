@@ -36,3 +36,5 @@ This project does not have any dependencies, so there's no need to run any insta
 This is your fortune:
 The cards reveal a major breakthrough in your near future.
 
+# Contributors
+- [Vadym Makohon](https://github.com/VadymMakohon)
